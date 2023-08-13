@@ -1,0 +1,5 @@
+/node_modules
+.mywajs_auth
+mywadb.json
+temp/*
+package-lock.json
